@@ -1,0 +1,36 @@
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Tangerine', serif;
+   
+    
+}
+.button{
+    padding: 22px;
+    margin:0px 3px;
+    border: 2px solid #000000;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0px;
+}
+.row1 button{
+    margin: 6px 3px;
+    padding: 21px 21px;
+    border-radius: 25px;
+    background-color: #f9cb78;
+}
+.row input{
+    font-size: 20px;
+    margin: 22px;
+    padding: 10px 4px;
+    width: 276px;
+    border: 2px solid black;
+    border-radius: 6px;
+}
+.buttondesign{
+    background-color: rgb(154, 154, 236);
+}
+
